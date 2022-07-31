@@ -9,7 +9,7 @@ using QuotesApi.Models;
 
 namespace QuotesApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("Quotes")]
     [ApiController]
     public class QuotesController : ControllerBase
     {
