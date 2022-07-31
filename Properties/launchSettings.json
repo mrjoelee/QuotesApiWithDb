@@ -12,8 +12,8 @@
     "QuotesApi": {
       "commandName": "Project",
       "launchBrowser": true,
-      //"launchUrl": "swagger",
-      "launchUrl": "quotes",
+      "launchUrl": "swagger",
+      //"launchUrl": "quotes",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
